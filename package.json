@@ -1,0 +1,31 @@
+{
+  "name": "dcloud",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsicart/dCloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsicart/dCloud/issues"
+  },
+  "homepage": "https://github.com/alexsicart/dCloud#readme",
+  "description": "",
+  "dependencies": {
+    "blob": "0.0.4",
+    "browserify": "^14.4.0",
+    "buffer": "^5.0.6",
+    "buffer-from": "^0.1.1",
+    "drag-drop": "^2.13.2",
+    "filereader": "^0.10.3",
+    "webtorrent": "^0.98.19"
+  },
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
+}
